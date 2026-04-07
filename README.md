@@ -52,12 +52,12 @@ This project aims to build a **secure, offline-accessible private cloud system**
 
 
 👥 Contributors
-Akshita
-Aanchal Trehan 
-Rahil Yadav 
-Amanya 
-Gurkirat Singh 
-Nadini Arora
+# Akshita
+# Aanchal Trehan 
+# Rahil Yadav 
+# Amanya Ahuja
+# Gurkirat Singh 
+# Nandini Arora
 
 Mentors from ELC @ Thapar University
 
